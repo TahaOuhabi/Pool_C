@@ -52,10 +52,10 @@ Projet éducatif sous la supervision du FISTO Club IT FSO.
 
 ## 👤 Vos Contact
 
-- **NOM COMPLET**: ...
-- **AGE**: ...
-- **Discord ID**: ...
-- **Établissement**: ...
+- **NOM COMPLET**: Taha Ouhabi
+- **AGE**: 21
+- **Discord ID**: 
+- **Établissement**: UMP FSO
 
 ---
 
